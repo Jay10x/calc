@@ -1,2 +1,7 @@
 # calc
-Simply tag bot and type your math problem directly in your chat. No need to leave the conversation! inline query feature provides instant, in-line solutions to your mathematical queries.
+A bot that allows you to get instant, in-line solutions to your math queries simply by tagging it directly in the chat.
+
+# lang
+- NodeJS
+- Library: mathjs
+
