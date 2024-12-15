@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@grammyjs/conversations": "^1.2.0",
+    "@grammyjs/parse-mode": "^1.10.0",
+    "esprima": "^4.0.1",
+    "grammy": "^1.27.0",
+    "math-expression-evaluator": "^2.0.5",
+    "mathjs": "^13.0.2",
+    "mongodb": "^6.8.0"
+  }
+}
